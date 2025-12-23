@@ -2,7 +2,7 @@
 
 <p align="center"><img width="300" src="https://gist.githubusercontent.com/RustMunkey/0ba3b397d5a9d5e640b817640f2ba018/raw/6c84e690a219a3b634ed45c979236862f08340f2/neoengine.svg" alt="NeoEngine Logo"></p>
 
-<h3 align="center">Decentralized cloud infrastructure for Solana</h3>
+<h3 align="center">Decentralized Cloud Infrastructure for Solana</h3>
 <h4 align="center">NeoEngine is a decentralized physical infrastructure network that lets anyone contribute compute resources like CPU, GPU, RAM, storage, and bandwidth to a global distributed cloud. By participating, providers earn rewards while renters gain fast, reliable, and affordable compute.</h4>
 
 <br>
